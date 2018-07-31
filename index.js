@@ -1,1 +1,1 @@
-var recipe = {}
+var object = {}
